@@ -1,44 +1,19 @@
-# 📘 About Me – Rustam Kholov
+# 👋 Rustam Kholov
 
-Hi! I'm **Rustam**, a self-driven developer on a mission to learn software development through structured experimentation and practical game design.
+I'm a C# developer focused on building systems that are well-structured, interactive, and teach me something new every time.
 
-### 🎓 Study Journey
-In just **2 months**, I built a fully structured Snake game from scratch in C#, with:
-- Event-driven architecture  
-- Manual dependency injection  
-- Dynamic menu and leaderboard logic  
+In just a couple of months, I’ve built console-based and GUI-driven games (like Snake and Minesweeper) using event-driven architecture, manual DI, and scalable UI logic.
+Now I’m transitioning toward projects that integrate databases, state management, and eventually web or Unity-based interfaces.
 
-Now, I'm exploring **WinForms UI** with a custom-built **Minesweeper game**, designed for scalability, UX polish, and clean separation of logic and view.
+I design with intent, debug with curiosity, and build to understand.
+> “Build what you can’t yet understand — then learn why it worked.”
 
----
-
-### 🧠 What Drives Me
-- I **don’t want shortcuts** — I want to understand.  
-- I build real things, not tutorials.  
-- I ask the *right questions*, and then dig deeper.
-
----
-
-### 🚀 Current Focus
-- WinForms (UI layout, control patterns, grid logic)  
-- Clean architecture (logic–UI separation)  
-- SQLite for local persistence  
-- Responsiveness and user experience in game interfaces
-
----
 
 ### 📍 Goals Ahead
-- Build a modern web version (Blazor or Unity)  
+- Build a modern web apps (Blazor or Unity)  
 - Explore testable UI architecture (MVP/MVVM)  
 - Learn how to publish and distribute real apps
+  
 
----
-
-### 🔗 Connect
-- GitHub: [RustamHolov](https://github.com/RustamHolov)  
-- LinkedIn: [Rustam Kholov](https://www.linkedin.com/in/rustam-kholov/)
-
----
-
-### 🧪 Philosophy
-> “Build what you can’t yet understand — then learn why it worked.”
+**LinkedIn:** [Rustam Kholov](https://www.linkedin.com/in/rustam-kholov/)  
+**GitHub:** [@RustamHolov](https://github.com/RustamHolov)
