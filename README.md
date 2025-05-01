@@ -16,4 +16,4 @@ I design with intent, debug with curiosity, and build to understand.
   
 
 **LinkedIn:** [Rustam Kholov](https://www.linkedin.com/in/rustam-kholov/)  
-**GitHub:** [@RustamHolov](https://github.com/RustamHolov)
+**GitHub:** [@RustamKholov](https://github.com/RustamKholov)
